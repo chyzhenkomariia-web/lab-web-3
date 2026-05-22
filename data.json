@@ -1,0 +1,68 @@
+    {
+    "works": [
+        { "id": 1, "icon": "film", "title": "Нігті", "category": "Кліп", "views": "12.4K", "video": "media/IMG_7648.MOV", "desc": "Вертикальний кліп для Reels.", "badge": "ХІТ" },
+        { "id": 2, "icon": "coffee", "title": "Ресторани", "category": "Реклама", "views": "8.1K", "video": "media/IMG_8880.MOV", "desc": "12-сек рекламний ролик.", "badge": "ПОПУЛЯРНЕ" },
+        { "id": 4, "icon": "camera", "title": "Fest Aftermovie 2024", "category": "Aftermovie", "views": "21K", "video": "media/IMG_2125.MOV", "desc": "12-хв aftermovie фестивалю. 3 дні зйомки, 400 Гб матеріалу.", "badge": "ТОП" },
+        { "id": 5, "icon": "skate", "title": "Street Skate Vol.1", "category": "Спорт", "views": "9.7K", "video": "media/IMG_1404.MOV", "desc": "Скейт-відео у стилі 2000-х. VX-ефект, VHS grain, ностальгічний монтаж.", "badge": null },
+        { "id": 6, "icon": "chart", "title": "TechStart Pitch Deck", "category": "Корпоратив", "views": "3.2K", "video": "media/IMG_4367.MOV", "desc": "5-хв відеопрезентація стартапу. Анімована інфографіка.", "badge": "-20%" },
+        { "id": 7, "icon": "mic", "title": "Underground MC Clip", "category": "Кліп", "views": "7.8K", "video": null, "desc": "Вертикальний кліп для Instagram. Вулиця, ніч, графіті.", "badge": "NEW" }
+    ],
+    "news": [
+        {
+        "id": 1,
+        "date": "2026-01-15",
+        "status": "very-important",
+        "title": "ТЕРМІНОВА ЗНИЖКА: Монтаж відео — 30% на весь місяць!",
+        "body": "Якщо ти читаєш це зараз — ти в потрібному місці. До кінця місяця діє унікальна акція: замовляй монтаж будь-якого формату і отримуй знижку 30%. Поспішай — залишилось лише 3 слоти!"
+        },
+        {
+        "id": 2,
+        "date": "2026-01-10",
+        "status": "important",
+        "title": "НОВІ ПОСЛУГИ: тепер доступний Color Grading для кіно",
+        "body": "Ми розширили список послуг. Тепер доступна повна кольорокорекція у форматі DaVinci Resolve для короткометражок і кіно. Вартість — від 2500 грн за 10 хвилин вихідного матеріалу."
+        },
+        {
+        "id": 3,
+        "date": "2026-01-05",
+        "status": "normal",
+        "title": "Новий проєкт у портфоліо: Fest Aftermovie 2024",
+        "body": "Завантажив нову роботу в портфоліо — aftermovie літнього фестивалю. 12 хвилин, повна кольорокорекція, власна музика."
+        },
+        {
+        "id": 4,
+        "date": "2025-12-28",
+        "status": "important",
+        "title": "Нова техніка: перейшов на Sony FX3 для зйомки",
+        "body": "Для проєктів де потрібна і зйомка, і монтаж — тепер є Sony FX3. Це суттєво підвищує якість зображення, особливо у слабкому освітленні."
+        },
+        {
+        "id": 5,
+        "date": "2025-12-15",
+        "status": "normal",
+        "title": "Зміни у графіку прийому замовлень на свята",
+        "body": "З 25 грудня по 3 січня — прийом нових замовлень призупинено. Усі вже прийняті проєкти виконуються за планом. З 4 січня — повернення до нормального графіку."
+        }
+    ],
+    "services": [
+        { "id": 1,  "name": "Reels / TikTok",       "type": "Соцмережі", "price": 600,  "icon": "phone",    "desc": "До 60 сек. Монтаж, субтитри, музика.",           "discount": "Популярне" },
+        { "id": 2,  "name": "YouTube відео",         "type": "YouTube",   "price": 1200, "icon": "play",     "desc": "До 15 хв. Intro, outro, chapter marks.",          "discount": null },
+        { "id": 3,  "name": "Рекламний ролик",       "type": "Реклама",   "price": 2000, "icon": "megaphone","desc": "15–60 сек. Motion graphics, кольорокорекція.",    "discount": "-20%" },
+        { "id": 5,  "name": "Aftermovie",            "type": "Захід",     "price": 2500, "icon": "camera",   "desc": "Атмосферний монтаж заходу / фесту.",              "discount": null },
+        { "id": 6,  "name": "Документальний фільм",  "type": "Кіно",      "price": 8000, "icon": "film",     "desc": "Від 30 хв. Кольорокорекція DaVinci.",             "discount": null },
+        { "id": 7, "name": "Color Grading",         "type": "Кіно",      "price": 2500, "icon": "palette",  "desc": "LUT + ручна корекція. DaVinci Resolve.",          "discount": null },
+        { "id": 8,  "name": "Корпоративне відео",    "type": "Реклама",   "price": 3000, "icon": "chart",    "desc": "Презентаційне відео компанії. Інфографіка.",      "discount": null },
+        { "id": 9,  "name": "Скейт / Спорт",         "type": "Спорт",     "price": 900,  "icon": "skate",    "desc": "Динамічний монтаж. VHS ефекти опційно.",          "discount": null },
+        { "id": 10, "name": "Motion Graphics",       "type": "Motion",    "price": 1800, "icon": "sparkles", "desc": "Анімовані елементи, логотип анімація.",           "discount": "Новинка" }
+    ],
+    "portfolio": [
+        { "id": 1, "icon": "film", "title": "Нігті", "category": "Кліп", "year": 2024, "client": "Замовник", "video": "media/IMG_7648.MOV", "desc": "Вертикальний кліп для Reels." },
+        { "id": 2, "icon": "coffee", "title": "Ресторани", "category": "Реклама", "year": 2024, "client": "Ресторани", "video": "media/IMG_8880.MOV", "desc": "12-сек рекламний ролик." },
+        { "id": 3, "icon": "rings", "title": "Реклама", "category": "Реклама", "year": 2024, "client": "Кав'ярня", "video": "media/IMG_5254.MOV", "desc": "Динамічний рекламний ролик" },
+        { "id": 4, "icon": "camera", "title": "Брови", "category": "Реклама", "year": 2024, "client": "Fest", "video": "media/IMG_2125.MOV", "desc": "Брови і косметика" },
+        { "id": 5, "icon": "skate", "title": "Культура", "category": "Реклама", "year": 2024, "client": "Культура", "video": "media/IMG_1404.MOV", "desc": "Мольберти і культура" },
+        { "id": 6, "icon": "chart", "title": "Одяг", "category": "Реклама", "year": 2024, "client": "Агентство", "video": "media/IMG_4367.MOV", "desc": "Вертикальний кліп для Instagram. Колекція одягу" },
+        { "id": 7, "icon": "mic", "title": "Underground MC Clip", "category": "Кліп", "year": 2024, "client": "MC Underground", "video": null, "desc": "Вертикальний кліп для Instagram. Вулиця, ніч, графіті." }
+    ]
+    
+    }
